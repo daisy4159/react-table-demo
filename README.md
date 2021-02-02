@@ -4,6 +4,8 @@ This is a react app, modified from react-table example: https://react-table.tans
 
 ## Demo and example:
 
+### View live demo: https://daisy4159.github.io/
+
 ### To run this demo locally, run the following scripts:
 
 ```
